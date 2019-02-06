@@ -9,6 +9,6 @@
   }
 </style>
 
-<div cdkDropList>
+<div cdkDropList (cdkDropListDropped)="drop($event)">
   <div cdkDrag *ngFor="let number of numbers" class="item">{{number}}</div>
 </div>
