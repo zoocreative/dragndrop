@@ -1,6 +1,6 @@
 # Drag N Drop
 
-This is a simpe project to create a drag and drop using the Angular 7 Material. I am also using it to test GIT
+This is a simple project to create a drag and drop using the Angular 7 Material. I am also using it to test GIT
 
 ## Development server
 
