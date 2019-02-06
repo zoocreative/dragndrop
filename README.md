@@ -1,6 +1,6 @@
-# Dragndrop
+# Drag N Drop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
+This is a simpe project to create a drag and drop using the Angular 7 Material. I am also using it to test GIT
 
 ## Development server
 
